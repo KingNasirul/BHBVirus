@@ -9,6 +9,14 @@ BHB tool
 <a href="https://github.com/KingNasirul"><img title="Author" src="https://img.shields.io/badge/Author-KingNasirul-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+### Installation Command
+$ apt update && apt upgrade
+$ apt install git
+$ pkg install python
+$ git clone https://github.com/KingNasirul/BHBVirus.git
+$ cd BHBVirus
+$ chmod +x BHB.py
+$ python2 BHB.py
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
