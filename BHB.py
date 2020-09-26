@@ -186,6 +186,9 @@ def main():
     print ("Invalid Input : "),dr
     os.system("cd script;python2 esprint.py")
     print
-    main()DarkXpl__ == "__main__":
+    main()
+if __name__ == "__main__":
 	main()
+  
+
   
